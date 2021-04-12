@@ -1,0 +1,1 @@
+<div style="position: fixed;width: 100%;text-align: center; height: 40px;bottom: 0;padding: 5px 10px 0px 10px;color: #d3d3d3">Microsoft corporation</div>
